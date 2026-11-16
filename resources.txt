@@ -1,0 +1,4 @@
+Notes Resources
+- Java
+- Data Structures
+- Git and GitHub
